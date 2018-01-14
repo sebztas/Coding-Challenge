@@ -36,4 +36,4 @@ sysinfo.txt
 *.unitypackage
 
 # Leave docs folder untouched
-!docs/
+!docs/Build
